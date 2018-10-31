@@ -10,3 +10,5 @@ Commit = "save", dakle promenicu fajl i uraditi commit. I sada imamo dole "commi
 
 Zakljucak tj review prvog dela:
 Git je version control, a GitHub je vebsajt gde mozes da kreiras projekte i nad njima da imas kontrolu verzije. Mozes da napravis skladiste/magacin (repositoty) ili dodas fajlove u skladiste, potom mozes da uneses promene u ove fajlove tako sto ucinimo "commit" (uraditi, izvrsiti, predati), a commit nam dozvoljava pregled istorije, a svaki od ovih commita ima svoj unikatni identifikator tj commit hash
+
+1.2: Branches - Git and GitHub for Poets
