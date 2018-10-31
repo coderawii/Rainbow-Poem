@@ -1,14 +1,16 @@
-Dugine Boje
+Dugine Boje i Jednorog
 
 Ljubicasta
 Roza
 Narandzasta
 Plava
 Zelena
+Jednorog
 Zuta
 Crvena
 
 Ovo su dugine boje.
+I jednorog
 ----------------------------
 
 Git = version control software.
