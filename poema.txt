@@ -5,6 +5,7 @@ Roza
 Narandzasta
 Plava
 Zelena
+Indigo
 Jednorog
 Zuta
 Crvena
