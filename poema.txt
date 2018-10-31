@@ -1,0 +1,17 @@
+Dugine Boje
+
+Ljubicasta
+Roza
+Narandzasta
+Plava
+Crvena
+
+Ovo su dugine boje.
+
+
+
+Git = version control software.
+GitHub = web service.
+Neko moze da koristi samo Git, a da nikad ne upotrebi GitHub, i obrnuto, a mi cemo da budemo negde u middle-u.
+Repository = "repo",
+Commit = "save", dakle promenicu fajl i uraditi commit,
