@@ -5,6 +5,7 @@ Roza
 Narandzasta
 Plava
 Zelena
+Zuta
 Crvena
 
 Ovo su dugine boje.
