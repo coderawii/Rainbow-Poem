@@ -1,4 +1,4 @@
-Dugine Boje i Jednorog
+Dugine Boje i Jednorog i Poni
 
 Ljubicasta
 Roza
@@ -11,7 +11,8 @@ Zuta
 Crvena
 
 Ovo su dugine boje.
-I jednorog
+I jednorog.
+Poni.
 ----------------------------
 
 Git = version control software.
